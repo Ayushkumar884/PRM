@@ -18,7 +18,6 @@ print("Output-",t)
  
  
 a=input().split(" ")
-
 b= input().split(" ")
 
 def triangle(a):
